@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg height="700" width="900" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<g transform="scale(0.269058295964126,1)">
+		<g id="bp 1">
+			<text height="92.5" id="C1" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.264150943396226)" width="52.5" x="71.25" y="52.5">C</text>
+			<text height="92.5" id="A1" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,13.8679245283019),scale(1,0.254716981132075)" width="52.5" x="71.25" y="52.5">A</text>
+			<text height="92.5" id="G1" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,27.2405660377358),scale(1,0.245283018867925)" width="52.5" x="71.25" y="52.5">G</text>
+			<text height="92.5" id="T1" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,40.1179245283019),scale(1,0.235849056603774)" width="52.5" x="71.25" y="52.5">T</text>
+		</g>
+		<g id="bp 2">
+			<text height="92.5" id="C2" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.39622641509434)" width="52.5" x="123.75" y="52.5">C</text>
+			<text height="92.5" id="A2" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,20.8018867924528),scale(1,0.245283018867925)" width="52.5" x="123.75" y="52.5">A</text>
+			<text height="92.5" id="G2" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,33.6792452830189),scale(1,0.235849056603774)" width="52.5" x="123.75" y="52.5">G</text>
+			<text height="92.5" id="T2" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.061320754717),scale(1,0.122641509433962)" width="52.5" x="123.75" y="52.5">T</text>
+		</g>
+		<g id="bp 3">
+			<text height="92.5" id="C3" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.537735849056604)" width="52.5" x="176.25" y="52.5">C</text>
+			<text height="92.5" id="A3" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,28.2311320754717),scale(1,0.235849056603774)" width="52.5" x="176.25" y="52.5">A</text>
+			<text height="92.5" id="G3" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,40.6132075471698),scale(1,0.169811320754717)" width="52.5" x="176.25" y="52.5">G</text>
+			<text height="92.5" id="T3" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.5283018867925),scale(1,0.0566037735849057)" width="52.5" x="176.25" y="52.5">T</text>
+		</g>
+		<g id="bp 4">
+			<text height="92.5" id="A4" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.622641509433962)" width="52.5" x="228.75" y="52.5">A</text>
+			<text height="92.5" id="G4" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,32.688679245283),scale(1,0.160377358490566)" width="52.5" x="228.75" y="52.5">G</text>
+			<text height="92.5" id="C4" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,41.1084905660377),scale(1,0.113207547169811)" width="52.5" x="228.75" y="52.5">C</text>
+			<text height="92.5" id="T4" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.10377358490566)" width="52.5" x="228.75" y="52.5">T</text>
+		</g>
+		<g id="bp 5">
+			<text height="92.5" id="G5" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.877358490566038)" width="52.5" x="281.25" y="52.5">G</text>
+			<text height="92.5" id="A5" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.061320754717),scale(1,0.0471698113207547)" width="52.5" x="281.25" y="52.5">A</text>
+			<text height="92.5" id="T5" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.5377358490566),scale(1,0.0471698113207547)" width="52.5" x="281.25" y="52.5">T</text>
+			<text height="92.5" id="C5" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,51.0141509433962),scale(1,0.0283018867924528)" width="52.5" x="281.25" y="52.5">C</text>
+		</g>
+		<g id="bp 6">
+			<text height="92.5" id="G6" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.990566037735849)" width="52.5" x="333.75" y="52.5">G</text>
+			<text height="92.5" id="C6" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,52.0047169811321),scale(1,0.00943396226415094)" width="52.5" x="333.75" y="52.5">C</text>
+		</g>
+		<g id="bp 7">
+			<text height="92.5" id="T7" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.971698113207547)" width="52.5" x="386.25" y="52.5">T</text>
+			<text height="92.5" id="C7" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,51.0141509433962),scale(1,0.0283018867924528)" width="52.5" x="386.25" y="52.5">C</text>
+		</g>
+		<g id="bp 8">
+			<text height="92.5" id="G8" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.641509433962264)" width="52.5" x="438.75" y="52.5">G</text>
+			<text height="92.5" id="A8" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,33.6792452830189),scale(1,0.311320754716981)" width="52.5" x="438.75" y="52.5">A</text>
+			<text height="92.5" id="C8" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,50.0235849056604),scale(1,0.0283018867924528)" width="52.5" x="438.75" y="52.5">C</text>
+			<text height="92.5" id="T8" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,51.5094339622641),scale(1,0.0188679245283019)" width="52.5" x="438.75" y="52.5">T</text>
+		</g>
+		<g id="bp 9">
+			<text height="92.5" id="A9" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.650943396226415)" width="52.5" x="491.25" y="52.5">A</text>
+			<text height="92.5" id="G9" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,34.1745283018868),scale(1,0.216981132075472)" width="52.5" x="491.25" y="52.5">G</text>
+			<text height="92.5" id="C9" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,45.5660377358491),scale(1,0.113207547169811)" width="52.5" x="491.25" y="52.5">C</text>
+			<text height="92.5" id="T9" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,51.5094339622641),scale(1,0.0188679245283019)" width="52.5" x="491.25" y="52.5">T</text>
+		</g>
+		<g id="bp 10">
+			<text height="92.5" id="G10" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.915094339622642)" width="52.5" x="543.75" y="52.5">G</text>
+			<text height="92.5" id="T10" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.0424528301887),scale(1,0.0471698113207547)" width="52.5" x="543.75" y="52.5">T</text>
+			<text height="92.5" id="C10" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,50.5188679245283),scale(1,0.0283018867924528)" width="52.5" x="543.75" y="52.5">C</text>
+			<text height="92.5" id="A10" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,52.0047169811321),scale(1,0.00943396226415094)" width="52.5" x="543.75" y="52.5">A</text>
+		</g>
+		<g id="bp 11">
+			<text height="92.5" id="T11" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.462264150943396)" width="52.5" x="596.25" y="52.5">T</text>
+			<text height="92.5" id="G11" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,24.2688679245283),scale(1,0.264150943396226)" width="52.5" x="596.25" y="52.5">G</text>
+			<text height="92.5" id="C11" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,38.1367924528302),scale(1,0.188679245283019)" width="52.5" x="596.25" y="52.5">C</text>
+			<text height="92.5" id="A11" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.0424528301887),scale(1,0.0849056603773585)" width="52.5" x="596.25" y="52.5">A</text>
+		</g>
+		<g id="bp 12">
+			<text height="92.5" id="C12" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.415094339622642)" width="52.5" x="648.75" y="52.5">C</text>
+			<text height="92.5" id="G12" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,21.7924528301887),scale(1,0.386792452830189)" width="52.5" x="648.75" y="52.5">G</text>
+			<text height="92.5" id="A12" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,42.0990566037736),scale(1,0.132075471698113)" width="52.5" x="648.75" y="52.5">A</text>
+			<text height="92.5" id="T12" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.0330188679245),scale(1,0.0660377358490566)" width="52.5" x="648.75" y="52.5">T</text>
+		</g>
+		<g id="bp 13">
+			<text height="92.5" id="C13" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.358490566037736)" width="52.5" x="701.25" y="52.5">C</text>
+			<text height="92.5" id="G13" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,18.8207547169811),scale(1,0.292452830188679)" width="52.5" x="701.25" y="52.5">G</text>
+			<text height="92.5" id="T13" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,34.1745283018868),scale(1,0.207547169811321)" width="52.5" x="701.25" y="52.5">T</text>
+			<text height="92.5" id="A13" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,45.0707547169811),scale(1,0.141509433962264)" width="52.5" x="701.25" y="52.5">A</text>
+		</g>
+		<g id="bp 14">
+			<text height="92.5" id="G14" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.443396226415094)" width="52.5" x="753.75" y="52.5">G</text>
+			<text height="92.5" id="C14" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,23.2783018867925),scale(1,0.330188679245283)" width="52.5" x="753.75" y="52.5">C</text>
+			<text height="92.5" id="T14" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,40.6132075471698),scale(1,0.160377358490566)" width="52.5" x="753.75" y="52.5">T</text>
+			<text height="92.5" id="A14" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.0330188679245),scale(1,0.0660377358490566)" width="52.5" x="753.75" y="52.5">A</text>
+		</g>
+		<g id="bp 15">
+			<text height="92.5" id="G15" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.443396226415094)" width="52.5" x="806.25" y="52.5">G</text>
+			<text height="92.5" id="C15" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,23.2783018867925),scale(1,0.415094339622642)" width="52.5" x="806.25" y="52.5">C</text>
+			<text height="92.5" id="T15" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,45.0707547169811),scale(1,0.0849056603773585)" width="52.5" x="806.25" y="52.5">T</text>
+			<text height="92.5" id="A15" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.5283018867924),scale(1,0.0566037735849057)" width="52.5" x="806.25" y="52.5">A</text>
+		</g>
+		<g id="bp 16">
+			<text height="92.5" id="G16" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.471698113207547)" width="52.5" x="858.75" y="52.5">G</text>
+			<text height="92.5" id="C16" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,24.7641509433962),scale(1,0.330188679245283)" width="52.5" x="858.75" y="52.5">C</text>
+			<text height="92.5" id="A16" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,42.0990566037736),scale(1,0.10377358490566)" width="52.5" x="858.75" y="52.5">A</text>
+			<text height="92.5" id="T16" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.5471698113208),scale(1,0.0943396226415094)" width="52.5" x="858.75" y="52.5">T</text>
+		</g>
+		<g id="bp 17">
+			<text height="92.5" id="C17" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.433962264150943)" width="52.5" x="911.25" y="52.5">C</text>
+			<text height="92.5" id="G17" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,22.7830188679245),scale(1,0.254716981132075)" width="52.5" x="911.25" y="52.5">G</text>
+			<text height="92.5" id="A17" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,36.1556603773585),scale(1,0.160377358490566)" width="52.5" x="911.25" y="52.5">A</text>
+			<text height="92.5" id="T17" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,44.5754716981132),scale(1,0.150943396226415)" width="52.5" x="911.25" y="52.5">T</text>
+		</g>
+		<g id="bp 18">
+			<text height="92.5" id="C18" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.537735849056604)" width="52.5" x="963.75" y="52.5">C</text>
+			<text height="92.5" id="G18" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,28.2311320754717),scale(1,0.292452830188679)" width="52.5" x="963.75" y="52.5">G</text>
+			<text height="92.5" id="A18" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,43.5849056603774),scale(1,0.0943396226415094)" width="52.5" x="963.75" y="52.5">A</text>
+			<text height="92.5" id="T18" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.5377358490566),scale(1,0.0754716981132075)" width="52.5" x="963.75" y="52.5">T</text>
+		</g>
+		<g id="bp 19">
+			<text height="92.5" id="G19" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.39622641509434)" width="52.5" x="1016.25" y="52.5">G</text>
+			<text height="92.5" id="C19" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,20.8018867924528),scale(1,0.273584905660377)" width="52.5" x="1016.25" y="52.5">C</text>
+			<text height="92.5" id="A19" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,35.1650943396226),scale(1,0.207547169811321)" width="52.5" x="1016.25" y="52.5">A</text>
+			<text height="92.5" id="T19" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.061320754717),scale(1,0.122641509433962)" width="52.5" x="1016.25" y="52.5">T</text>
+		</g>
+		<g id="bp 20">
+			<text height="92.5" id="G20" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.443396226415094)" width="52.5" x="1068.75" y="52.5">G</text>
+			<text height="92.5" id="C20" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,23.2783018867925),scale(1,0.292452830188679)" width="52.5" x="1068.75" y="52.5">C</text>
+			<text height="92.5" id="A20" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,38.6320754716981),scale(1,0.188679245283019)" width="52.5" x="1068.75" y="52.5">A</text>
+			<text height="92.5" id="T20" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.5377358490566),scale(1,0.0754716981132075)" width="52.5" x="1068.75" y="52.5">T</text>
+		</g>
+		<g id="bp 21">
+			<text height="92.5" id="G21" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.471698113207547)" width="52.5" x="1121.25" y="52.5">G</text>
+			<text height="92.5" id="C21" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,24.7641509433962),scale(1,0.330188679245283)" width="52.5" x="1121.25" y="52.5">C</text>
+			<text height="92.5" id="T21" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,42.0990566037736),scale(1,0.132075471698113)" width="52.5" x="1121.25" y="52.5">T</text>
+			<text height="92.5" id="A21" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.0330188679245),scale(1,0.0660377358490566)" width="52.5" x="1121.25" y="52.5">A</text>
+		</g>
+		<g id="bp 22">
+			<text height="92.5" id="G22" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.433962264150943)" width="52.5" x="1173.75" y="52.5">G</text>
+			<text height="92.5" id="C22" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,22.7830188679245),scale(1,0.264150943396226)" width="52.5" x="1173.75" y="52.5">C</text>
+			<text height="92.5" id="A22" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,36.6509433962264),scale(1,0.179245283018868)" width="52.5" x="1173.75" y="52.5">A</text>
+			<text height="92.5" id="T22" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.061320754717),scale(1,0.122641509433962)" width="52.5" x="1173.75" y="52.5">T</text>
+		</g>
+		<g id="bp 23">
+			<text height="92.5" id="G23" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.594339622641509)" width="52.5" x="1226.25" y="52.5">G</text>
+			<text height="92.5" id="C23" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,31.2028301886792),scale(1,0.207547169811321)" width="52.5" x="1226.25" y="52.5">C</text>
+			<text height="92.5" id="T23" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,42.0990566037736),scale(1,0.122641509433962)" width="52.5" x="1226.25" y="52.5">T</text>
+			<text height="92.5" id="A23" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.5377358490566),scale(1,0.0754716981132075)" width="52.5" x="1226.25" y="52.5">A</text>
+		</g>
+		<g id="bp 24">
+			<text height="92.5" id="G24" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.405660377358491)" width="52.5" x="1278.75" y="52.5">G</text>
+			<text height="92.5" id="C24" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,21.2971698113208),scale(1,0.386792452830189)" width="52.5" x="1278.75" y="52.5">C</text>
+			<text height="92.5" id="A24" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,41.6037735849057),scale(1,0.10377358490566)" width="52.5" x="1278.75" y="52.5">A</text>
+			<text height="92.5" id="T24" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.10377358490566)" width="52.5" x="1278.75" y="52.5">T</text>
+		</g>
+		<g id="bp 25">
+			<text height="92.5" id="G25" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.433962264150943)" width="52.5" x="1331.25" y="52.5">G</text>
+			<text height="92.5" id="C25" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,22.7830188679245),scale(1,0.330188679245283)" width="52.5" x="1331.25" y="52.5">C</text>
+			<text height="92.5" id="T25" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,40.1179245283019),scale(1,0.122641509433962)" width="52.5" x="1331.25" y="52.5">T</text>
+			<text height="92.5" id="A25" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.5566037735849),scale(1,0.113207547169811)" width="52.5" x="1331.25" y="52.5">A</text>
+		</g>
+		<g id="bp 26">
+			<text height="92.5" id="G26" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.433962264150943)" width="52.5" x="1383.75" y="52.5">G</text>
+			<text height="92.5" id="C26" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,22.7830188679245),scale(1,0.330188679245283)" width="52.5" x="1383.75" y="52.5">C</text>
+			<text height="92.5" id="A26" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,40.1179245283019),scale(1,0.132075471698113)" width="52.5" x="1383.75" y="52.5">A</text>
+			<text height="92.5" id="T26" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.10377358490566)" width="52.5" x="1383.75" y="52.5">T</text>
+		</g>
+		<g id="bp 27">
+			<text height="92.5" id="G27" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.5)" width="52.5" x="1436.25" y="52.5">G</text>
+			<text height="92.5" id="C27" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,26.25),scale(1,0.292452830188679)" width="52.5" x="1436.25" y="52.5">C</text>
+			<text height="92.5" id="A27" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,41.6037735849057),scale(1,0.113207547169811)" width="52.5" x="1436.25" y="52.5">A</text>
+			<text height="92.5" id="T27" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.5471698113208),scale(1,0.0943396226415094)" width="52.5" x="1436.25" y="52.5">T</text>
+		</g>
+		<g id="bp 28">
+			<text height="92.5" id="G28" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.528301886792453)" width="52.5" x="1488.75" y="52.5">G</text>
+			<text height="92.5" id="C28" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,27.7358490566038),scale(1,0.188679245283019)" width="52.5" x="1488.75" y="52.5">C</text>
+			<text height="92.5" id="T28" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,37.6415094339623),scale(1,0.169811320754717)" width="52.5" x="1488.75" y="52.5">T</text>
+			<text height="92.5" id="A28" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.5566037735849),scale(1,0.113207547169811)" width="52.5" x="1488.75" y="52.5">A</text>
+		</g>
+		<g id="bp 29">
+			<text height="92.5" id="G29" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.433962264150943)" width="52.5" x="1541.25" y="52.5">G</text>
+			<text height="92.5" id="C29" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,22.7830188679245),scale(1,0.349056603773585)" width="52.5" x="1541.25" y="52.5">C</text>
+			<text height="92.5" id="A29" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,41.1084905660377),scale(1,0.113207547169811)" width="52.5" x="1541.25" y="52.5">A</text>
+			<text height="92.5" id="T29" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.10377358490566)" width="52.5" x="1541.25" y="52.5">T</text>
+		</g>
+		<g id="bp 30">
+			<text height="92.5" id="G30" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.518867924528302)" width="52.5" x="1593.75" y="52.5">G</text>
+			<text height="92.5" id="C30" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,27.2405660377358),scale(1,0.254716981132075)" width="52.5" x="1593.75" y="52.5">C</text>
+			<text height="92.5" id="T30" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,40.6132075471698),scale(1,0.122641509433962)" width="52.5" x="1593.75" y="52.5">T</text>
+			<text height="92.5" id="A30" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.10377358490566)" width="52.5" x="1593.75" y="52.5">A</text>
+		</g>
+		<g id="bp 31">
+			<text height="92.5" id="C31" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.490566037735849)" width="52.5" x="1646.25" y="52.5">C</text>
+			<text height="92.5" id="G31" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,25.7547169811321),scale(1,0.254716981132075)" width="52.5" x="1646.25" y="52.5">G</text>
+			<text height="92.5" id="T31" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,39.127358490566),scale(1,0.141509433962264)" width="52.5" x="1646.25" y="52.5">T</text>
+			<text height="92.5" id="A31" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.5566037735849),scale(1,0.113207547169811)" width="52.5" x="1646.25" y="52.5">A</text>
+		</g>
+		<g id="bp 32">
+			<text height="92.5" id="C32" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.405660377358491)" width="52.5" x="1698.75" y="52.5">C</text>
+			<text height="92.5" id="G32" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,21.2971698113208),scale(1,0.292452830188679)" width="52.5" x="1698.75" y="52.5">G</text>
+			<text height="92.5" id="A32" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,36.6509433962264),scale(1,0.179245283018868)" width="52.5" x="1698.75" y="52.5">A</text>
+			<text height="92.5" id="T32" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.061320754717),scale(1,0.122641509433962)" width="52.5" x="1698.75" y="52.5">T</text>
+		</g>
+		<g id="bp 33">
+			<text height="92.5" id="C33" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.377358490566038)" width="52.5" x="1751.25" y="52.5">C</text>
+			<text height="92.5" id="G33" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,19.811320754717),scale(1,0.311320754716981)" width="52.5" x="1751.25" y="52.5">G</text>
+			<text height="92.5" id="A33" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,36.1556603773585),scale(1,0.179245283018868)" width="52.5" x="1751.25" y="52.5">A</text>
+			<text height="92.5" id="T33" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,45.5660377358491),scale(1,0.132075471698113)" width="52.5" x="1751.25" y="52.5">T</text>
+		</g>
+		<g id="bp 34">
+			<text height="92.5" id="C34" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.452830188679245)" width="52.5" x="1803.75" y="52.5">C</text>
+			<text height="92.5" id="A34" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,23.7735849056604),scale(1,0.188679245283019)" width="52.5" x="1803.75" y="52.5">A</text>
+			<text height="92.5" id="G34" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,33.6792452830189),scale(1,0.179245283018868)" width="52.5" x="1803.75" y="52.5">G</text>
+			<text height="92.5" id="T34" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,43.0896226415094),scale(1,0.179245283018868)" width="52.5" x="1803.75" y="52.5">T</text>
+		</g>
+		<g id="bp 35">
+			<text height="92.5" id="C35" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.367924528301887)" width="52.5" x="1856.25" y="52.5">C</text>
+			<text height="92.5" id="G35" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,19.3160377358491),scale(1,0.273584905660377)" width="52.5" x="1856.25" y="52.5">G</text>
+			<text height="92.5" id="T35" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,33.6792452830189),scale(1,0.254716981132075)" width="52.5" x="1856.25" y="52.5">T</text>
+			<text height="92.5" id="A35" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.10377358490566)" width="52.5" x="1856.25" y="52.5">A</text>
+		</g>
+		<g id="bp 36">
+			<text height="92.5" id="C36" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.339622641509434)" width="52.5" x="1908.75" y="52.5">C</text>
+			<text height="92.5" id="T36" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,17.8301886792453),scale(1,0.30188679245283)" width="52.5" x="1908.75" y="52.5">T</text>
+			<text height="92.5" id="G36" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,33.6792452830189),scale(1,0.19811320754717)" width="52.5" x="1908.75" y="52.5">G</text>
+			<text height="92.5" id="A36" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,44.0801886792453),scale(1,0.160377358490566)" width="52.5" x="1908.75" y="52.5">A</text>
+		</g>
+		<g id="bp 37">
+			<text height="92.5" id="T37" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.273584905660377)" width="52.5" x="1961.25" y="52.5">T</text>
+			<text height="92.5" id="G37" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,14.3632075471698),scale(1,0.264150943396226)" width="52.5" x="1961.25" y="52.5">G</text>
+			<text height="92.5" id="A37" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,28.2311320754717),scale(1,0.245283018867925)" width="52.5" x="1961.25" y="52.5">A</text>
+			<text height="92.5" id="C37" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,41.1084905660377),scale(1,0.216981132075472)" width="52.5" x="1961.25" y="52.5">C</text>
+		</g>
+		<g id="bp 38">
+			<text height="92.5" id="A38" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.330188679245283)" width="52.5" x="2013.75" y="52.5">A</text>
+			<text height="92.5" id="C38" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,17.3349056603774),scale(1,0.292452830188679)" width="52.5" x="2013.75" y="52.5">C</text>
+			<text height="92.5" id="G38" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,32.688679245283),scale(1,0.283018867924528)" width="52.5" x="2013.75" y="52.5">G</text>
+			<text height="92.5" id="T38" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.5471698113208),scale(1,0.0943396226415094)" width="52.5" x="2013.75" y="52.5">T</text>
+		</g>
+		<g id="bp 39">
+			<text height="92.5" id="C39" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.481132075471698)" width="52.5" x="2066.25" y="52.5">C</text>
+			<text height="92.5" id="A39" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,25.2594339622642),scale(1,0.311320754716981)" width="52.5" x="2066.25" y="52.5">A</text>
+			<text height="92.5" id="G39" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,41.6037735849057),scale(1,0.10377358490566)" width="52.5" x="2066.25" y="52.5">G</text>
+			<text height="92.5" id="T39" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.10377358490566)" width="52.5" x="2066.25" y="52.5">T</text>
+		</g>
+		<g id="bp 40">
+			<text height="92.5" id="C40" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.415094339622642)" width="52.5" x="2118.75" y="52.5">C</text>
+			<text height="92.5" id="T40" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,21.7924528301887),scale(1,0.216981132075472)" width="52.5" x="2118.75" y="52.5">T</text>
+			<text height="92.5" id="G40" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,33.1839622641509),scale(1,0.19811320754717)" width="52.5" x="2118.75" y="52.5">G</text>
+			<text height="92.5" id="A40" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,43.5849056603774),scale(1,0.169811320754717)" width="52.5" x="2118.75" y="52.5">A</text>
+		</g>
+		<g id="bp 41">
+			<text height="92.5" id="C41" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.462264150943396)" width="52.5" x="2171.25" y="52.5">C</text>
+			<text height="92.5" id="G41" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,24.2688679245283),scale(1,0.311320754716981)" width="52.5" x="2171.25" y="52.5">G</text>
+			<text height="92.5" id="T41" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,40.6132075471698),scale(1,0.160377358490566)" width="52.5" x="2171.25" y="52.5">T</text>
+			<text height="92.5" id="A41" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.0330188679245),scale(1,0.0660377358490566)" width="52.5" x="2171.25" y="52.5">A</text>
+		</g>
+		<g id="bp 42">
+			<text height="92.5" id="C42" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.443396226415094)" width="52.5" x="2223.75" y="52.5">C</text>
+			<text height="92.5" id="T42" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,23.2783018867925),scale(1,0.245283018867925)" width="52.5" x="2223.75" y="52.5">T</text>
+			<text height="92.5" id="G42" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,36.1556603773585),scale(1,0.19811320754717)" width="52.5" x="2223.75" y="52.5">G</text>
+			<text height="92.5" id="A42" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.5566037735849),scale(1,0.113207547169811)" width="52.5" x="2223.75" y="52.5">A</text>
+		</g>
+		<g id="bp 43">
+			<text height="92.5" id="C43" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.405660377358491)" width="52.5" x="2276.25" y="52.5">C</text>
+			<text height="92.5" id="G43" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,21.2971698113208),scale(1,0.311320754716981)" width="52.5" x="2276.25" y="52.5">G</text>
+			<text height="92.5" id="T43" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,37.6415094339623),scale(1,0.245283018867925)" width="52.5" x="2276.25" y="52.5">T</text>
+			<text height="92.5" id="A43" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,50.5188679245283),scale(1,0.0377358490566038)" width="52.5" x="2276.25" y="52.5">A</text>
+		</g>
+		<g id="bp 44">
+			<text height="92.5" id="C44" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.509433962264151)" width="52.5" x="2328.75" y="52.5">C</text>
+			<text height="92.5" id="T44" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,26.7452830188679),scale(1,0.245283018867925)" width="52.5" x="2328.75" y="52.5">T</text>
+			<text height="92.5" id="G44" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,39.622641509434),scale(1,0.179245283018868)" width="52.5" x="2328.75" y="52.5">G</text>
+			<text height="92.5" id="A44" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.0330188679245),scale(1,0.0660377358490566)" width="52.5" x="2328.75" y="52.5">A</text>
+		</g>
+		<g id="bp 45">
+			<text height="92.5" id="C45" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.415094339622642)" width="52.5" x="2381.25" y="52.5">C</text>
+			<text height="92.5" id="T45" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,21.7924528301887),scale(1,0.30188679245283)" width="52.5" x="2381.25" y="52.5">T</text>
+			<text height="92.5" id="G45" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,37.6415094339623),scale(1,0.188679245283019)" width="52.5" x="2381.25" y="52.5">G</text>
+			<text height="92.5" id="A45" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.5471698113208),scale(1,0.0943396226415094)" width="52.5" x="2381.25" y="52.5">A</text>
+		</g>
+		<g id="bp 46">
+			<text height="92.5" id="C46" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.594339622641509)" width="52.5" x="2433.75" y="52.5">C</text>
+			<text height="92.5" id="T46" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,31.2028301886792),scale(1,0.235849056603774)" width="52.5" x="2433.75" y="52.5">T</text>
+			<text height="92.5" id="G46" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,43.5849056603774),scale(1,0.160377358490566)" width="52.5" x="2433.75" y="52.5">G</text>
+			<text height="92.5" id="A46" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,52.0047169811321),scale(1,0.00943396226415094)" width="52.5" x="2433.75" y="52.5">A</text>
+		</g>
+		<g id="bp 47">
+			<text height="92.5" id="C47" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.509433962264151)" width="52.5" x="2486.25" y="52.5">C</text>
+			<text height="92.5" id="T47" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,26.7452830188679),scale(1,0.330188679245283)" width="52.5" x="2486.25" y="52.5">T</text>
+			<text height="92.5" id="G47" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,44.0801886792453),scale(1,0.122641509433962)" width="52.5" x="2486.25" y="52.5">G</text>
+			<text height="92.5" id="A47" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,50.5188679245283),scale(1,0.0377358490566038)" width="52.5" x="2486.25" y="52.5">A</text>
+		</g>
+		<g id="bp 48">
+			<text height="92.5" id="C48" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.5)" width="52.5" x="2538.75" y="52.5">C</text>
+			<text height="92.5" id="T48" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,26.25),scale(1,0.311320754716981)" width="52.5" x="2538.75" y="52.5">T</text>
+			<text height="92.5" id="G48" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,42.5943396226415),scale(1,0.122641509433962)" width="52.5" x="2538.75" y="52.5">G</text>
+			<text height="92.5" id="A48" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,49.0330188679245),scale(1,0.0660377358490566)" width="52.5" x="2538.75" y="52.5">A</text>
+		</g>
+		<g id="bp 49">
+			<text height="92.5" id="C49" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.660377358490566)" width="52.5" x="2591.25" y="52.5">C</text>
+			<text height="92.5" id="T49" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,34.6698113207547),scale(1,0.226415094339623)" width="52.5" x="2591.25" y="52.5">T</text>
+			<text height="92.5" id="G49" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,46.5566037735849),scale(1,0.0849056603773585)" width="52.5" x="2591.25" y="52.5">G</text>
+			<text height="92.5" id="A49" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,51.0141509433962),scale(1,0.0283018867924528)" width="52.5" x="2591.25" y="52.5">A</text>
+		</g>
+		<g id="bp 50">
+			<text height="92.5" id="C50" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.69811320754717)" width="52.5" x="2643.75" y="52.5">C</text>
+			<text height="92.5" id="T50" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,36.6509433962264),scale(1,0.216981132075472)" width="52.5" x="2643.75" y="52.5">T</text>
+			<text height="92.5" id="G50" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.0424528301887),scale(1,0.0754716981132075)" width="52.5" x="2643.75" y="52.5">G</text>
+			<text height="92.5" id="A50" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,52.0047169811321),scale(1,0.00943396226415094)" width="52.5" x="2643.75" y="52.5">A</text>
+		</g>
+		<g id="bp 51">
+			<text height="92.5" id="C51" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.613207547169811)" width="52.5" x="2696.25" y="52.5">C</text>
+			<text height="92.5" id="T51" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,32.1933962264151),scale(1,0.283018867924528)" width="52.5" x="2696.25" y="52.5">T</text>
+			<text height="92.5" id="G51" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,47.0518867924528),scale(1,0.0566037735849057)" width="52.5" x="2696.25" y="52.5">G</text>
+			<text height="92.5" id="A51" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,50.0235849056604),scale(1,0.0471698113207547)" width="52.5" x="2696.25" y="52.5">A</text>
+		</g>
+		<g id="bp 52">
+			<text height="92.5" id="G52" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.367924528301887)" width="52.5" x="2748.75" y="52.5">G</text>
+			<text height="92.5" id="C52" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,19.3160377358491),scale(1,0.349056603773585)" width="52.5" x="2748.75" y="52.5">C</text>
+			<text height="92.5" id="A52" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,37.6415094339623),scale(1,0.207547169811321)" width="52.5" x="2748.75" y="52.5">A</text>
+			<text height="92.5" id="T52" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,48.5377358490566),scale(1,0.0754716981132075)" width="52.5" x="2748.75" y="52.5">T</text>
+		</g>
+		<g id="bp 53">
+			<text height="92.5" id="C53" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.858490566037736)" width="52.5" x="2801.25" y="52.5">C</text>
+			<text height="92.5" id="T53" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,45.0707547169811),scale(1,0.113207547169811)" width="52.5" x="2801.25" y="52.5">T</text>
+			<text height="92.5" id="A53" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,51.0141509433962),scale(1,0.0188679245283019)" width="52.5" x="2801.25" y="52.5">A</text>
+			<text height="92.5" id="G53" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,52.0047169811321),scale(1,0.00943396226415094)" width="52.5" x="2801.25" y="52.5">G</text>
+		</g>
+		<g id="bp 54">
+			<text height="92.5" id="A54" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,1)" width="52.5" x="2853.75" y="52.5">A</text>
+		</g>
+		<g id="bp 55">
+			<text height="92.5" id="G55" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.990566037735849)" width="52.5" x="2906.25" y="52.5">G</text>
+			<text height="92.5" id="A55" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,52.0047169811321),scale(1,0.00943396226415094)" width="52.5" x="2906.25" y="52.5">A</text>
+		</g>
+		<g id="bp 56">
+			<text height="92.5" id="G56" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.679245283018868)" width="52.5" x="2958.75" y="52.5">G</text>
+			<text height="92.5" id="C56" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,35.6603773584906),scale(1,0.150943396226415)" width="52.5" x="2958.75" y="52.5">C</text>
+			<text height="92.5" id="A56" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,43.5849056603774),scale(1,0.122641509433962)" width="52.5" x="2958.75" y="52.5">A</text>
+			<text height="92.5" id="T56" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,50.0235849056604),scale(1,0.0471698113207547)" width="52.5" x="2958.75" y="52.5">T</text>
+		</g>
+		<g id="bp 57">
+			<text height="92.5" id="T57" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.339622641509434)" width="52.5" x="3011.25" y="52.5">T</text>
+			<text height="92.5" id="C57" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,17.8301886792453),scale(1,0.292452830188679)" width="52.5" x="3011.25" y="52.5">C</text>
+			<text height="92.5" id="G57" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,33.1839622641509),scale(1,0.216981132075472)" width="52.5" x="3011.25" y="52.5">G</text>
+			<text height="92.5" id="A57" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,44.5754716981132),scale(1,0.150943396226415)" width="52.5" x="3011.25" y="52.5">A</text>
+		</g>
+		<g id="bp 58">
+			<text height="92.5" id="C58" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.443396226415094)" width="52.5" x="3063.75" y="52.5">C</text>
+			<text height="92.5" id="G58" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,23.2783018867925),scale(1,0.245283018867925)" width="52.5" x="3063.75" y="52.5">G</text>
+			<text height="92.5" id="A58" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,36.1556603773585),scale(1,0.160377358490566)" width="52.5" x="3063.75" y="52.5">A</text>
+			<text height="92.5" id="T58" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,44.5754716981132),scale(1,0.150943396226415)" width="52.5" x="3063.75" y="52.5">T</text>
+		</g>
+		<g id="bp 59">
+			<text height="92.5" id="C59" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.367924528301887)" width="52.5" x="3116.25" y="52.5">C</text>
+			<text height="92.5" id="G59" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,19.3160377358491),scale(1,0.30188679245283)" width="52.5" x="3116.25" y="52.5">G</text>
+			<text height="92.5" id="T59" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,35.1650943396226),scale(1,0.179245283018868)" width="52.5" x="3116.25" y="52.5">T</text>
+			<text height="92.5" id="A59" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,44.5754716981132),scale(1,0.150943396226415)" width="52.5" x="3116.25" y="52.5">A</text>
+		</g>
+		<g id="bp 60">
+			<text height="92.5" id="C60" style="fill: green; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,0),scale(1,0.377358490566038)" width="52.5" x="3168.75" y="52.5">C</text>
+			<text height="92.5" id="A60" style="fill: red; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,19.811320754717),scale(1,0.273584905660377)" width="52.5" x="3168.75" y="52.5">A</text>
+			<text height="92.5" id="T60" style="fill: magenta; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,34.1745283018868),scale(1,0.179245283018868)" width="52.5" x="3168.75" y="52.5">T</text>
+			<text height="92.5" id="G60" style="fill: blue; font-family: Verdana; font-size: 70; text-anchor: middle" transform="translate(0,43.5849056603774),scale(1,0.169811320754717)" width="52.5" x="3168.75" y="52.5">G</text>
+		</g>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: middle" x="26" y="105">Position:</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="71.25" y="105">1</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="123.75" y="105">2</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="176.25" y="105">3</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="228.75" y="105">4</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="281.25" y="105">5</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="333.75" y="105">6</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="386.25" y="105">7</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="438.75" y="105">8</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="491.25" y="105">9</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="543.75" y="105">10</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="596.25" y="105">11</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="648.75" y="105">12</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="701.25" y="105">13</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="753.75" y="105">14</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="806.25" y="105">15</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="858.75" y="105">16</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="911.25" y="105">17</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="963.75" y="105">18</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1016.25" y="105">19</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1068.75" y="105">20</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1121.25" y="105">21</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1173.75" y="105">22</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1226.25" y="105">23</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1278.75" y="105">24</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1331.25" y="105">25</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1383.75" y="105">26</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1436.25" y="105">27</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1488.75" y="105">28</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1541.25" y="105">29</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1593.75" y="105">30</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1646.25" y="105">31</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1698.75" y="105">32</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1751.25" y="105">33</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1803.75" y="105">34</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1856.25" y="105">35</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1908.75" y="105">36</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="1961.25" y="105">37</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2013.75" y="105">38</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2066.25" y="105">39</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2118.75" y="105">40</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2171.25" y="105">41</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2223.75" y="105">42</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2276.25" y="105">43</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2328.75" y="105">44</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2381.25" y="105">45</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2433.75" y="105">46</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2486.25" y="105">47</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2538.75" y="105">48</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2591.25" y="105">49</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2643.75" y="105">50</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2696.25" y="105">51</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2748.75" y="105">52</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2801.25" y="105">53</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2853.75" y="105">54</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2906.25" y="105">55</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="2958.75" y="105">56</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="3011.25" y="105">57</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="3063.75" y="105">58</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="3116.25" y="105">59</text>
+		<text style="fill: black; font-family: Verdana; font-size: 10; text-anchor: left" x="3168.75" y="105">60</text>
+	</g>
+	<!-- 
+	Generated using the Perl SVG Module V2.78
+	by Ronan Oger
+	Info: http://www.roitsystems.com/
+ -->
+</svg>
