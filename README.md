@@ -4,7 +4,7 @@
 
 - **intron_pictograms** - Scripts to visualise donor and acceptor site pictograms across all human introns
 
-- **Supplement Table 1.xlsx**
+- **Supplemental Table 1.xlsx**
 
 |Sheet|Contents|
 |-------------|------------|
